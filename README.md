@@ -34,7 +34,6 @@ These are the basic dependencies (tested on Ubuntu 16.04.4 LTS) for training and
 - python 3.6
 - [pytorch](https://pytorch.org/) 0.4 and torchvision 0.2 (`conda install pytorch=0.4 torchvision=0.2 -c pytorch`)
 - `pyyaml`
-- `munch`
 - [COCO API](https://github.com/cocodataset/cocoapi)
 - `pypcd` (see [here](https://github.com/jimmyyhwu/pose-interpreter-networks/tree/master/pose_estimation#additional-requirements) for instructions)
 - `pillow`
